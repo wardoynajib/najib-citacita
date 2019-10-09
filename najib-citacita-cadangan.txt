@@ -1,6 +1,8 @@
 CADANGAN NAJIB CITA-CITA
 
 - Astronot
+* Ke Planet Mars
+* Ke Planet Saturnus
 - Polisi
 - Tentara
 * TNI AD
@@ -8,3 +10,4 @@ CADANGAN NAJIB CITA-CITA
 * TNI AU
 - Pemadam Kebakaran
 - Pilot
+- Menteri Teknologi Indonesia
