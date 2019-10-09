@@ -1,6 +1,9 @@
 CADANGAN NAJIB CITA-CITA
 
 - Astronot
+* Planet Neptunus
+* Planet Saturnus
+* Planet Mars
 - Polisi
 - Tentara
 * TNI AD
